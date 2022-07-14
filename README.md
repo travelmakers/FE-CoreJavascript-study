@@ -1,8 +1,8 @@
-# 📖 코어 자바스크립트 Book Study
+# 📖 모던 자바스크립트 Deep Dive Book Study
 
 ### 📅 기간 : 22.07.14 ~ 미정
 
-### 📔 교재 : [코어 자바스크립트](http://www.yes24.com/Product/Goods/78586788)
+### 📔 교재 : [모던 자바스크립트 Deep Dive]([http://www.yes24.com/Product/Goods/78586788](http://www.yes24.com/Product/Goods/92742567))
 
 ### 📌 진행 방식
 1. 하나의 Chapter를 읽기
